@@ -1,0 +1,59 @@
+.nav-link {
+    opacity: 0.8;
+    color: black;
+}
+
+body{
+    background-image: url('../images/mic.jpg');
+    background-size: 100%;
+    /* opacity: 0.8; */
+}
+
+#frontpic{
+    background-image: url('../images/stageshot1.jpg');
+    background-size: 100%;
+    color: white;
+}
+
+p{
+    color: white;
+}
+.row{
+    padding: 20px;
+}
+.videos{
+    background-image:url("../images/stageshot3.jpg");
+    background-size: 100%;
+}
+.merch{
+    background-image:url("../images/stageshot4.jpg");
+    background-size: auto;
+}
+.headArticle{
+    color: red;
+}
+#cta-title{
+    color: yellow;
+}
+.jumbotron{
+    background-color: black;
+    size: auto;
+    color: white;
+}
+.mainBody{
+   background-color:black;
+    opacity: 1;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+form{  
+    
+    padding: 20px;
+    color: white;
+    width: 100%;
+    margin:auto;
+}
+.textPic{
+    color: yellow;
+    text-shadow: 15px;
+}
